@@ -1,4 +1,4 @@
-👋 Hi, I'm Dylan Teehan! 💻<br>
+👋 Hi, I'm Dylan Teehan! <br>
 
 3rd Year Immersive Software Engineering student at the University of Limerick.<br>
 Passionate about AI, automation, and enterprise level software development.<br>
